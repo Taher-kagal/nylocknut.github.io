@@ -9,7 +9,38 @@
 
 <url>
   <loc>http://nylocknut.in/</loc>
-  <lastmod>2018-07-13T17:02:37+00:00</lastmod>
+  <lastmod>2018-07-14T05:31:40+00:00</lastmod>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>http://nylocknut.in/chennai.html</loc>
+  <lastmod>2018-07-14T05:31:40+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://nylocknut.in/Hyderabad.html</loc>
+  <lastmod>2018-07-14T05:31:40+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://nylocknut.in/pondicherry.html</loc>
+  <lastmod>2018-07-14T05:31:40+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://nylocknut.in/Vijaywada.html</loc>
+  <lastmod>2018-07-14T05:31:40+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://nylocknut.in/banglore.html</loc>
+  <lastmod>2018-07-14T05:31:40+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://nylocknut.in/Thiruvanthapuram.html</loc>
+  <lastmod>2018-07-14T05:31:40+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 
 
